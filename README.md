@@ -1,4 +1,4 @@
-# esoteric-boolean-logic-language
+# Esoteric-boolean-logic-language
 BooleanFu: A linear (1 Dimensional) boolean-algebra-based programming language.
 
 ### Terminology
